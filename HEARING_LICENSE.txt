@@ -1,0 +1,29 @@
+Persona Hearing Protocol LICENSE  
+Copyright (c) 2025 Eugene Xiang
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+
+SUMMARY:
+
+- You are free to:
+  ✔️ Share — copy and redistribute the material in any medium or format
+  ✔️ Adapt — remix, transform, and build upon the material
+  ❗ Only for non-commercial purposes and with proper attribution.
+
+- Under the following terms:
+  🔒 Attribution — You must give appropriate credit to Eugene Xiang and link to the original project.
+  🚫 NonCommercial — You may not use the material for commercial purposes.
+  ⚖️ No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+- This license applies to:
+  📁 Persona Hearing Protocol and its design
+  📄 YAML structures, prompt scaffolding, and hearing schema documentation
+
+DISCLAIMER:
+This document and its contents are intended for research, educational, and ethical exploration only. Misuse of the framework for manipulation, profiling, or identity override is strictly prohibited.
+
+FOR COMMERCIAL LICENSE INQUIRIES:
+Please contact the author directly.
+
+Eugene Xiang — 2025
