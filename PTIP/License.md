@@ -1,45 +1,46 @@
+# PTIP (Personality Thermo-Immune Patch) License
 
-<html>
-  <head>
-    <meta content="origin" name="referrer">
-    <title>Rate limit &middot; GitHub</title>
-    <meta name="viewport" content="width=device-width">
-    <style type="text/css" media="screen">
-      body {
-        background-color: #f6f8fa;
-        color: rgba(0, 0, 0, 0.5);
-        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
-        font-size: 14px;
-        line-height: 1.5;
-      }
-      .c { margin: 50px auto; max-width: 600px; text-align: center; padding: 0 24px; }
-      a { text-decoration: none; }
-      a:hover { text-decoration: underline; }
-      h1 { color: #24292e; line-height: 60px; font-size: 48px; font-weight: 300; margin: 0px; }
-      p { margin: 20px 0 40px; }
-      #s { margin-top: 35px; }
-      #s a {
-        color: #666666;
-        font-weight: 200;
-        font-size: 14px;
-        margin: 0 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="c">
-      <h1>Access has been restricted</h1>
-      <p>You have triggered a rate limit.<br><br>
-         Please wait a few minutes before you try again;<br>
-         in some cases this may take up to an hour.
-      </p>
-      <div id="s">
-        <a href="https://support.github.com">Contact Support</a> &mdash;
-        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
-        <a href="https://twitter.com/githubstatus">@githubstatus</a>
-      </div>
-    </div>
-  </body>
-</html>
+© 2025 Eugene Xiang  
+Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
+https://creativecommons.org/licenses/by-nc/4.0/
 
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
+---
+
+## Summary
+
+You are free to:
+
+✅ **Share** — copy and redistribute the material in any medium or format  
+✅ **Adapt** — remix, transform, and build upon the material  
+❗ **Only for non-commercial purposes and with proper attribution.**
+
+---
+
+## Under the following terms:
+
+🔒 **Attribution** — You must give appropriate credit to *Eugene Xiang* and link to the original project.  
+🚫 **NonCommercial** — You may not use the material for commercial purposes.  
+⚖️ **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## This license applies to:
+
+- 📁 `Appendix III: PTIP Framework`
+- 📄 `PTIP YAML injection structure`
+- 🧬 `Red teaming prompt simulation logic`
+- 🧠 `Any conceptual diagrams or textual explanations directly derived from this repository`
+
+---
+
+## Disclaimer
+
+This repository and its content are intended for research, educational, and ethical AI safety exploration only.  
+**Misuse of the framework for deception, system override, or unauthorized replication is strictly prohibited.**
+
+For commercial license inquiries or partnership, please contact the original author:
+
+**Eugene Xiang — 2025.04**
 
